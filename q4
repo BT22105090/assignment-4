@@ -1,0 +1,3 @@
+for candies in range(200):
+ if candies%5==2 and candies%6==3 and candies%7==2:
+   print(candies," is the answer!")
